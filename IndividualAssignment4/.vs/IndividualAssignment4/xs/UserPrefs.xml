@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{69E19F92-E3C9-4A5E-BD2A-E95C5FE8002B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IndividualAssignment4/Activities/AccountActivity.cs">
+    <Files>
+      <File FileName="IndividualAssignment4/Activities/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="IndividualAssignment4/Activities/AccountActivity.cs" Line="15" Column="5" />
+      <File FileName="IndividualAssignment4/Activities/CheckingActivity.cs" Line="13" Column="1" />
+      <File FileName="IndividualAssignment4/Activities/SavingActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IndividualAssignment4 PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>
